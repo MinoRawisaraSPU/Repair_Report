@@ -12,7 +12,7 @@
 
 ### 1. Clone โปรเจค
 ```bash
-git clone https://github.com/NuttoSPU/Repair_Report.git
+git clone https://github.com/MinoRawisaraSPU/Repair_Report.git
 cd Repair_Report
 ```
 ### 2. รัน Development Server
